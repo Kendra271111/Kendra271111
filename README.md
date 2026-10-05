@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🔭 I’m open to work on-site, online, remote<br>🌱 I’m currently learning DJango
+<br>🔭 I’m open to work on-site, online, remote<br>🌱 I’m currently learning DJango<br> Check out m portfolio https://keindra-ja.vercel.app/
 
 
 ## 🌐 Socials:
